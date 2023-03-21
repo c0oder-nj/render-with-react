@@ -38,3 +38,6 @@ curly bracketes are necessary when you want to use js in react
 functional components are stateless components
 
 in order to use state
+
+
+hooks are only used in function based components 
